@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde  bir adet README dosyası, bir adet de index.html barındırıyor.
 
-
+[![MarkDown](assets/resim.jpg)]
 
 ## Installation
 öncelikle project clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
@@ -27,6 +27,9 @@ Pull requestler kabul edilir.Büyük değiiliklikler için, lütfen önce neyi d
 
 [MIT](https://opensource.org/licenses/MIT)
 
-![Proje resmi](https://miro.medium.com/max/2400/2*TZeK0kyHTRHVv3gUi8BtQg.png)
 
 
+
+## Patikam
+
+[patika](https://app.patika.dev/kaptanreis)
